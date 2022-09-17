@@ -14,7 +14,7 @@ const swaggerDefinition = {
             url: "http://localhost:3001/api"
         },
         {
-            url: "http://localhost:3002/api",
+            url: "https://murmuring-hamlet-18212.herokuapp.com/api",
         },
     ],
     components: {
